@@ -30,3 +30,10 @@ Berikut adalah beberapa Project basic yang sudah saya kerjakan:<br>
 * Bookshelf App (HTML, CSS, JS)<br>
 
 Saya akan selalu belajar untuk menumbuhkan skill dan karir saya.
+
+<p align="left">
+<a href="https://github.com/miftahfrdmaulana">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
