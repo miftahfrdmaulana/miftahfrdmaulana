@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Miftah Farid Maulana**.<br>
+
+Saya seorang **Mahasiswa** Teknik Komputer di salah satu Universitas Swasta di Bandung yakni **Telkom University**.<br>
+
+Selama saya kuliah, tidak hanya kelas-kelas perkuliahan yang saya lakukan, namun tentunnya saya juga mengikuti kepanitiaan dan banyak pengerjaan project-project tim.
+Disini aya menumbuhkan minat dan mimpi untuk menjadi seorang *Front-end Developer** dan saya juga ingin menjadi seorang **Cloud Engineer**.<br>
+
+Currently, saya sedang mengukuti program MSIB dengan Bangkit Academy dalam bagian pembelajaran Cloud Computing.<br>
+
+Berikut adalah beberapa Project basic yang sudah saya kerjakan:<br>
+* Poeple Counter (HTML, CSS, JS)
+* Blackjack Game (HTML, CSS, JS)
+* Bookshelf App (HTML, CSS, JS)<br>
+
+Saya akan selalu belajar untuk menumbuhkan skill dan karir saya.
