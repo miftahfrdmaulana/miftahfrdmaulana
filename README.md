@@ -27,10 +27,11 @@ Currently, saya sedang mengukuti program MSIB dengan Bangkit Academy dalam bagia
 Berikut adalah beberapa Project basic yang sudah saya kerjakan:<br>
 * Poeple Counter (HTML, CSS, JS)
 * Blackjack Game (HTML, CSS, JS)
+* Garden Guard - Plant Desease Android Application (NodeJS, GCP)
 * Bookshelf App (HTML, CSS, JS)<br>
 
 Saya akan selalu belajar untuk menumbuhkan skill dan karir saya.
-- 🌱 I’m currently learning **About Cloud Computing with Bangkit Academy 2024**
+- 🌱 **Bangkit Academy 2024 - Cloud Computing Alumnus**
 - 📫 How to reach me: **miftahfrdmaulana@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miftahfrdmaulana&label=Profile%20views&color=0e75b6&style=flat" alt="miftahfrdmaulana" /> </p>
